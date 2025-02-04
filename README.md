@@ -1,1 +1,1 @@
-# odin-recipes
+This a simple website for recipes, that will test the abilities that I've learned so far.
