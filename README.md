@@ -1,1 +1,1 @@
-This a simple website for recipes, that will test the abilities that I've learned so far.
+This is a simple website for recipes, that will test the abilities that I've learned so far. Thanks to this project I have learned a lot more about html and got down the boilerplate template.
